@@ -1,14 +1,22 @@
-td {
-	color : white;
-	background-color: red;
+#pestañas {
+  	color : white;
+	background-color: #101797;
+	height: 50px;
+	width: 200px;
+	text-align: center;
 }
 
-#aza {
-	color : brown;
+#primer {
+ 	height: 200px;
 
 }
 
-#bot {
-transition: transform 2s ease;
 
+#titulo {
+
+margin-top: 1px;
+}
+
+#fondoblanco {
+	height: 900px;
 }
